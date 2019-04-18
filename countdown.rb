@@ -1,4 +1,3 @@
-sleep 1
 def countdown(number)
   number = 0
   while number < 12
